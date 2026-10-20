@@ -10,7 +10,7 @@ markdown# 🛒 Análisis de Ventas Instacart - Python
 ### 📊 ¿Qué hay en este repo?
 - **EDA Completo:** Limpieza, análisis de horas pico, productos más reordenados.
 - **Visualizaciones:** Gráficas de barras y heatmaps de comportamiento.
-- **Notebook:** `llena_ese_carrito.ipynb`
+- **Note book:** `llena_ese_carrito.ipynb`
 
 ### 🚀 Ver proyecto
 Abre el archivo `llena_ese_carrito.ipynb` para ver todo el análisis.
