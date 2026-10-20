@@ -1,18 +1,19 @@
-# analisis-ventas-instacart-python
+markdown# 🛒 Análisis de Ventas Instacart - Python
 
-Análisis de pedidos en la plataforma Instacart usando Python, Pandas y Matplotlib.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-00C853?style=for-the-badge)
 
-## 🎯 Objetivo de negocio
-Entender el comportamiento de compra para optimizar el stock y mejorar las recomendaciones de productos.
+> Proyecto de Análisis Exploratorio (EDA) del dataset Instacart para entender patrones de compra.
 
-## 🛠️ Herramientas
-- Python, Pandas, Matplotlib
-- Limpieza de datos y Análisis Exploratorio (EDA)
+### 📊 ¿Qué hay en este repo?
+- **EDA Completo:** Limpieza, análisis de horas pico, productos más reordenados.
+- **Visualizaciones:** Gráficas de barras y heatmaps de comportamiento.
+- **Notebook:** `llena_ese_carrito.ipynb`
 
-## 📊 Hallazgos clave
-- Los días más activos son los miércoles; las madrugadas presentan baja demanda y son ideales para mantenimiento.
-- Los productos más populares son vegetales, frutas y leche, con alto porcentaje de recompra.
-- Se identifican dos tipos de clientes: los que hacen un solo pedido grande (despensa) y los que hacen muchos pedidos pequeños con productos de nicho.
+### 🚀 Ver proyecto
+Abre el archivo `llena_ese_carrito.ipynb` para ver todo el análisis.
 
-## 📁 Archivos
-- `analisis_instacart.ipynb` - Notebook con el análisis completo
+---
+Hecho por [cesarrmixer-beep](https://github.com/cesarrmixer-beep) | JR. Data Analyst
