@@ -16,4 +16,4 @@ markdown# 🛒 Análisis de Ventas Instacart - Python
 Abre el archivo `llena_ese_carrito.ipynb` para ver todo el análisis.
 
 ---
-Hecho por [cesarrmixer-beep](https://github.com/cesarrmixer-beep) | JR. Data Analyst
+Hecho por [cesarrmixer-beep](https://github.com/cesarrmixer-beep) | Jr. Data Analyst
